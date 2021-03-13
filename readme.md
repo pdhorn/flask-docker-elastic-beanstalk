@@ -4,3 +4,5 @@ To run, use `docker-compose up` (or `docker-compose up -d` to reset the counter)
 
 Deploy to AWS Elastic Beanstalk
 I ran `eb init` then `eb create`.
+
+(Note: this tutorial was a bit simpler due to port settings being straightforward https://sommershurbaji.medium.com/deploying-a-docker-container-to-aws-with-elastic-beanstalk-28adfd6e7e95)
